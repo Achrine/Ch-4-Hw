@@ -1,0 +1,7 @@
+﻿  CH04_09.cpp
+CH04_09.cpp(29): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CH04_09.vcxproj -> C:\Users\mvc\Desktop\Ch-4-Hw\Teacher\CH04_09\Release\CH04_09.exe
+  CH04_09.vcxproj -> C:\Users\mvc\Desktop\Ch-4-Hw\Teacher\CH04_09\Release\CH04_09.pdb (Full PDB)
