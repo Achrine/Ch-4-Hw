@@ -1,4 +1,4 @@
-//Programmer: Your Name Here 
+//Programmer: Steven Brcak
 //Assignment: Program Challenge
 //			  Chapter 4, Number 3
 //Filename: CH04_03.cpp
